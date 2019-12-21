@@ -1,4 +1,4 @@
-# Chest X-Ray Analysis - AI Powered Pathology Detection
+# Cervical Cancer Classification & Sampling
 
 # Ø. Introduction
 *Cervical cancer (Risk Factors) Data Set* is acquired form [UCI](https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+(Risk+Factors)) machine learning repo.
@@ -21,7 +21,7 @@ Jessica Fernandes - Universidad Central de Venezuela, Caracas, Venezuela.
 # I. Methods
 
 
-- Notebook [```cervical_cancer_classification_lr_balancing_ym_2019```](https://nbviewer.jupyter.org/github/YM88/https://github.com/YM88/Cervical-Cancer-Classification-with-Risk-Factors/blob/master/100-data_cleaning_eda.ipynb) 
+- Notebook [```cervical_cancer_classification_lr_balancing_ym_2019```](https://nbviewer.jupyter.org/github/YM88/Cervical-Cancer-Classification-with-Risk-Factors/blob/master/cervical_cancer_classification_lr_balancing_ym_2019.ipynb) 
 
 # II. Results
 
